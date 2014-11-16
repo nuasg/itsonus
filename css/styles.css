@@ -1,0 +1,60 @@
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+#font {
+	color:#7C2DBF;
+}
+
+#titlefont {
+	font-size:90px;
+}
+
+#navfont {
+	color: black;
+}
+
+
+#button {
+	background: #7C2DBF;
+	border-color: #7C2DBF;
+}
+
+#titlefont {
+	color: #7C2DBF;
+}
+
+#titletext {
+	font-size: 28px;
+}
+
+
+#circlepic {
+	margin-bottom:10px; 
+}
+	
+#row {
+	margin-left:40px;
+}
+
+#grouphead {
+	color: #7C2DBF;
+}
+
+#center {
+	:center;
+	}
+	
+#pledgelist {
+	font-size:30px;
+}
+
+#serif {
+	font:serif;
+}
+
+
+
+
+
