@@ -5,7 +5,19 @@
 
 #font {
 	color:#7C2DBF;
+	font-family: 'Open Sans', sans-serif;
+
 }
+#font-gray{
+	font-family: 'Open Sans', sans-serif;
+
+}
+#font a{
+	color:#7C2DBF;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
 
 #titlefont {
 	font-size:90px;
@@ -75,6 +87,10 @@ font-family: 'Open Sans', sans-serif;
 
 #grouphead {
 	margin-left:10px;
+	color:#7C2DBF;
+	font-family: 'Open Sans', sans-serif;
+
+
 }
 
 #campaigninfo {
