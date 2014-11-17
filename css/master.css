@@ -1,0 +1,55 @@
+/* 9. Parallax
+-----------------------------------------------------------------------------*/
+.parallax {
+  position:relative;
+  width: 100%;
+}
+
+.inner {
+  min-height: 500px;
+  position: relative;
+}
+
+.parallax .inner,
+.parallax .subtitle,
+.scrolling-img .inner {
+  background: url(../images/overlay.png) repeat;
+}
+
+.parallax h1, .parallax h2, .parallax h3, .parallax p {  
+  color:#fff;
+}
+
+.content {
+  position:absolute; 
+  top:40%; 
+  height:10em; 
+  margin-top:-5em; 
+  width:100%;
+}
+
+.subtitle {
+min-height: 500px;
+position: relative;
+}
+
+.banner-text{
+  margin-top: 0px;
+  text-align: center;
+
+}
+
+
+
+.navbar{
+  margin-bottom: 0px;
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.sponsors-front{
+  background-color: #e7e7e7;
+
+}
+

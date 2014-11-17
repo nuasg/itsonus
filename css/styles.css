@@ -17,8 +17,12 @@
 
 
 #button {
-	background: #7C2DBF;
-	border-color: #7C2DBF;
+	background: #FFFFFF ;
+	border-color: #FFFFFF ;
+	color:#7C2DBF;
+	font-size: 20px;
+font-family: 'Open Sans', sans-serif;
+
 }
 
 #titlefont {
