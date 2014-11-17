@@ -50,11 +50,25 @@
 	font-size:30px;
 }
 
-#serif {
-	font:serif;
+#pledgelist {
+	font-family: 'Lora', serif; !important;
+	font-size: 20px;
 }
 
+#resourcelist {
+	font-family: 'Lora', serif; !important;
+	font-size: 16px;
+}
 
+#source {
+	font-family: 'Lora', serif; !important;
+	font-size: 12px;
+}
 
+#navbar-brand {
+	margin-top:-12px;
+}
 
-
+#grouphead {
+	margin-left:10px;
+}
