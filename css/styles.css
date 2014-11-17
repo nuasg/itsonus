@@ -72,3 +72,12 @@
 #grouphead {
 	margin-left:10px;
 }
+
+#campaigninfo {
+	font-family: 'Lora', serif; !important;
+	font-size: 18px;
+}
+
+#imgback {
+	background-color:#C8C8C8;
+}
