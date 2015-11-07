@@ -49,7 +49,7 @@ font-family: 'Open Sans', sans-serif;
 #circlepic {
 	margin-bottom:10px;
 }
-	
+
 #row {
 	margin-left:40px;
 }
@@ -61,7 +61,7 @@ font-family: 'Open Sans', sans-serif;
 #center {
 	:center;
 	}
-	
+
 #pledgelist {
 	font-size:30px;
 }
@@ -118,13 +118,24 @@ html, body {
 .page-wrap {
   min-height: 100%;
   /* equal to footer height */
-  margin-bottom: -142px; 
+  margin-bottom: -142px;
 }
 .page-wrap:after {
   content: "";
   display: block;
 }
 .site-footer, .page-wrap:after {
-  height: 142px; 
+  height: 142px;
 }
 
+.filler-text {
+  background-color: black;
+  color: white;
+  text-align: center;
+
+  font-size: 1.2em;
+  padding: 25px;
+  margin: auto;
+  height: 315px;
+  width: 560px;
+}
