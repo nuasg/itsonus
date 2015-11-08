@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 1080px;
 }
 
 #font {
@@ -142,3 +142,4 @@ html, body {
   box-shadow: 9px 9px 5px 0px rgba(0, 0, 0, 0.75);
 
 }
+
