@@ -136,7 +136,7 @@ html, body {
   font-size: 1.2em;
   padding: 25px;
   margin: auto;
-  min-height: 315px;
+  min-height: 290px;
   width: 560px;
 
   box-shadow: 9px 9px 5px 0px rgba(0, 0, 0, 0.75);
@@ -146,4 +146,3 @@ html, body {
 .specialnavfont {
 	background-color: white;
 }
-
